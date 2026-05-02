@@ -30,7 +30,8 @@
 
 **Customer Segmentation (K-Means)**
 
-![Customer Clusters](outputs/customer_clusters.png)
+<img width="1600" height="792" alt="WhatsApp Image 2026-05-03 at 12 35 37 AM" src="https://github.com/user-attachments/assets/90fe754f-296b-4aee-a345-af2b3f2d222b" />
+
 
 ---
 
