@@ -18,7 +18,8 @@
 
 ## 🖼️ Dashboard Preview
 
-> [📌 *Add your Tableau Public link here once published*](https://public.tableau.com/app/profile/khushi.jangid1214/viz/Automated-Sales-Analysis-System-Dashboard/Dashboard1?publish=yes)
+>Tableau public link
+(https://public.tableau.com/app/profile/khushi.jangid1214/viz/Automated-Sales-Analysis-System-Dashboard/Dashboard1?publish=yes)
 
 <img width="1599" height="769" alt="image" src="https://github.com/user-attachments/assets/723171ff-b1c9-49df-b98b-d39d85d4a506" />
 
