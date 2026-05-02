@@ -18,15 +18,9 @@
 
 ## 🖼️ Dashboard Preview
 
-> 📌 *Add your Tableau Public link here once published*
+> [📌 *Add your Tableau Public link here once published*](https://public.tableau.com/app/profile/khushi.jangid1214/viz/Automated-Sales-Analysis-System-Dashboard/Dashboard1?publish=yes)
 
-**Region × Segment Profitability Heatmap**
-
-![Tableau Dashboard](outputs/tableau_dashboard_screenshot.png)
-
-**Discount Impact on Profit Margin**
-
-![Profit Loss Scatter](outputs/profit_loss_scatter.png)
+<img width="1599" height="769" alt="image" src="https://github.com/user-attachments/assets/723171ff-b1c9-49df-b98b-d39d85d4a506" />
 
 **Customer Segmentation (K-Means)**
 
